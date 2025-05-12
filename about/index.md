@@ -3,7 +3,7 @@ layout: layouts/base.njk
 title: Sobre mi
 templateClass: tmpl-post
 eleventyNavigation:
-  key: About
+  key: Sobre mi
   order: 3
 ---
 
