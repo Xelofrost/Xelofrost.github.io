@@ -10,19 +10,8 @@
     
   
   <url>
-    <loc>https://update-me.com/posts/firstpost/</loc>
-    <lastmod>2021-10-15T15:43:27.000Z</lastmod>
-  </url>
-  
-  
-  
-  
-  
-  
-  
-  <url>
-    <loc>https://update-me.com/posts/pruebapost/</loc>
-    <lastmod>2020-07-12T00:00:00.000Z</lastmod>
+    <loc>https://xelofrost.github.io/posts/firstpost/</loc>
+    <lastmod>2025-05-12T16:23:17.000Z</lastmod>
   </url>
   
   
@@ -34,8 +23,8 @@
     
   
   <url>
-    <loc>https://update-me.com/posts/secondpost/</loc>
-    <lastmod>2022-01-03T15:11:15.000Z</lastmod>
+    <loc>https://xelofrost.github.io/posts/pruebapost/</loc>
+    <lastmod>2025-05-12T16:23:17.000Z</lastmod>
   </url>
   
   
@@ -47,8 +36,8 @@
     
   
   <url>
-    <loc>https://update-me.com/posts/thirdpost/</loc>
-    <lastmod>2021-10-15T15:43:27.000Z</lastmod>
+    <loc>https://xelofrost.github.io/posts/secondpost/</loc>
+    <lastmod>2025-05-12T16:23:17.000Z</lastmod>
   </url>
   
   
@@ -60,8 +49,21 @@
     
   
   <url>
-    <loc>https://update-me.com/posts/fourthpost/</loc>
-    <lastmod>2021-10-15T15:43:27.000Z</lastmod>
+    <loc>https://xelofrost.github.io/posts/thirdpost/</loc>
+    <lastmod>2025-05-12T16:23:17.000Z</lastmod>
+  </url>
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  <url>
+    <loc>https://xelofrost.github.io/posts/fourthpost/</loc>
+    <lastmod>2025-05-12T16:23:17.000Z</lastmod>
   </url>
   
   
@@ -72,9 +74,11 @@
     
   
   
+    
+  
   <url>
-    <loc>https://update-me.com/about/</loc>
-    <lastmod>2025-05-12T15:10:13.963Z</lastmod>
+    <loc>https://xelofrost.github.io/about/</loc>
+    <lastmod>2025-05-12T17:07:40.000Z</lastmod>
   </url>
   
   
@@ -85,9 +89,11 @@
     
   
   
+    
+  
   <url>
-    <loc>https://update-me.com/posts/</loc>
-    <lastmod>2025-05-12T15:10:13.963Z</lastmod>
+    <loc>https://xelofrost.github.io/posts/</loc>
+    <lastmod>2025-05-12T16:23:17.000Z</lastmod>
   </url>
   
   
@@ -98,9 +104,11 @@
     
   
   
+    
+  
   <url>
-    <loc>https://update-me.com/</loc>
-    <lastmod>2025-05-12T15:10:13.975Z</lastmod>
+    <loc>https://xelofrost.github.io/page-list/</loc>
+    <lastmod>2025-05-12T16:23:17.000Z</lastmod>
   </url>
   
   
@@ -111,9 +119,11 @@
     
   
   
+    
+  
   <url>
-    <loc>https://update-me.com/page-list/</loc>
-    <lastmod>2025-05-12T15:10:13.979Z</lastmod>
+    <loc>https://xelofrost.github.io/tags/</loc>
+    <lastmod>2025-05-12T16:23:17.000Z</lastmod>
   </url>
   
   
@@ -124,9 +134,11 @@
     
   
   
+    
+  
   <url>
-    <loc>https://update-me.com/tags/</loc>
-    <lastmod>2025-05-12T15:10:13.979Z</lastmod>
+    <loc>https://xelofrost.github.io/tags/another-tag/</loc>
+    <lastmod>2025-05-12T16:23:17.000Z</lastmod>
   </url>
   
   
@@ -137,9 +149,11 @@
     
   
   
+    
+  
   <url>
-    <loc>https://update-me.com/tags/second-tag/</loc>
-    <lastmod>2025-05-12T15:10:13.979Z</lastmod>
+    <loc>https://xelofrost.github.io/tags/second-tag/</loc>
+    <lastmod>2025-05-12T16:23:17.000Z</lastmod>
   </url>
   
   
@@ -150,9 +164,11 @@
     
   
   
+    
+  
   <url>
-    <loc>https://update-me.com/tags/another-tag/</loc>
-    <lastmod>2025-05-12T15:10:13.979Z</lastmod>
+    <loc>https://xelofrost.github.io/tags/number-2/</loc>
+    <lastmod>2025-05-12T16:23:17.000Z</lastmod>
   </url>
   
   
@@ -163,8 +179,10 @@
     
   
   
+    
+  
   <url>
-    <loc>https://update-me.com/tags/number-2/</loc>
-    <lastmod>2025-05-12T15:10:13.979Z</lastmod>
+    <loc>https://xelofrost.github.io/</loc>
+    <lastmod>2025-05-13T16:25:36.000Z</lastmod>
   </url>
 </urlset>
